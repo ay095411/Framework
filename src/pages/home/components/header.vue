@@ -15,12 +15,7 @@
 </template>
 <script>
   export default {
-    name:'Header',
-    data() {
-      return {
-        
-      }
-    }
+    name:'Header'
   }
 </script>
 <style lang="stylus" scoped>
